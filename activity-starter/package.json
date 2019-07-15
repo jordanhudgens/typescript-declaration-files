@@ -11,7 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/jasmine": "^3.3.12",
-    "@types/lodash": "^4.14.129",
+    "@types/lodash": "^4.14.136",
     "jasmine": "^3.4.0",
     "jasmine-ts": "^0.3.0",
     "nyc": "^14.1.1",
@@ -19,6 +19,6 @@
     "typescript": "^3.4.5"
   },
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": ">=4.17.13"
   }
 }
